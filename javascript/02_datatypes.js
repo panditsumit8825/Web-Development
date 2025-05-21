@@ -47,5 +47,21 @@
 // console.log(1+"2");
 // console.log("1"+2+2);
 // console.log(1+2+"2");
-console.log(true);
-console.log(+true);
+// console.log(true);
+// console.log(+true);
+
+// console.log("2" > 1);
+// console.log("02" >1);
+
+// console.log( null > 0);
+// console.log( null == 0);
+// console.log( null >= 0);
+
+// console.log( undefined > 0);
+// console.log( undefined < 0);
+// console.log( undefined == 0);
+// === strict check it is datatypes with comparision
+// console.log("2" === 2);
+
+
+
