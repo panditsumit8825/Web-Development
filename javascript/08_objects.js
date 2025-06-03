@@ -36,4 +36,16 @@
 // }
 // console.log(jsUser.greetingTwo())
 
-// 
+
+
+//  Part-2 , lec - 02
+
+const course = {
+    coursename: "js in hindi",
+    price:"999",
+    courseInstructur: "hitesh"
+}
+
+// course.courseInstructur
+const {courseInstructur} = course
+console.log(courseInstructur);
