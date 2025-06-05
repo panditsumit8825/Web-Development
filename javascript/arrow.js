@@ -33,8 +33,8 @@
 
 // const addTwo = (num1 , num2) =>  num1+num2
 // const addTwo = (num1 , num2) =>  (num1+num2)
-const addTwo = (num1 , num2) =>  ({username: "hitesh"})
-console.log(addTwo(3,5));
+// const addTwo = (num1 , num2) =>  ({username: "hitesh"})
+// console.log(addTwo(3,5));
 
 
 // Immediately Invoked Function Expession ( IFEE)
